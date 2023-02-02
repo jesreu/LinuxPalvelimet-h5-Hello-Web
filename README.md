@@ -82,7 +82,7 @@ Aseta vahva salasana, ja lisää/ohita terminaalin kysymät tiedot käyttäjäll
 ![uuden_kyttjn_kotisivut](https://user-images.githubusercontent.com/112503770/216286058-d7aaa1db-5b3e-4c1c-a5df-c9e4a787cfb5.png)
 
 
-Nyt olemme onnistuneesti luoneet uudellä käyttäjälle omat nettisivut. Voimme poistaa nyt turhan käyttäjän komennolla `deluser testi1` ajamalla sen normaalilla käyttäjällämme. Valittevasti komento ei mene läpi, jos käyttäjällä on aktiivisia prosesseja. Lopettaaksesi käyttäjän kaikki prosessit aja komento `sudo pkill -u testi1`.
+Nyt olemme onnistuneesti luoneet uudellä käyttäjälle omat nettisivut. Voimme poistaa testikäyttäjän komennolla `deluser testi1` ajamalla sen normaalilla käyttäjällämme. Valittevasti komento ei mene läpi, jos käyttäjällä on aktiivisia prosesseja. Lopettaaksesi käyttäjän kaikki prosessit aja komento `sudo pkill -u testi1`.
 ## d) 11:15
 Päivitämme käyttäjän kotisivut validiksi html5 sivuksi.
 

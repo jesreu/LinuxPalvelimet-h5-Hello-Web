@@ -67,11 +67,11 @@ Voimme ihailla kotisivua nyt nettiselaimessa.
 
 
 ## c) 10.50
-Uudelle käyttäjälle kotisivut. Luomme uuden testi käyttäjän kommennoilla:
+Uudelle käyttäjälle kotisivut. Luomme uuden testikäyttäjän kommennoilla:
 
     sudo adduser testi1
     
-Aseta vahva salasana, ja lisää terminaalin kysymät tiedot käyttäjälle. Kun terminaalin promptit on käyty loppuun, voit kirjautua ulos nykyiseltä käyttäjältäsi, ja vaihtaa uuteen testi käyttäjään. Nyt voimme ajaa kohdasta b) komennot:
+Aseta vahva salasana, ja lisää/ohita terminaalin kysymät tiedot käyttäjälle. Kun terminaalin promptit on käyty loppuun, voit kirjautua ulos nykyiseltä käyttäjältäsi, ja vaihtaa uuteen testi käyttäjään. Nyt voimme ajaa kohdasta b) komennot:
 
     cd
     mkdir public_html
